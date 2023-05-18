@@ -321,8 +321,9 @@ button {
 
 .header {
      width: 100%;
-     background: transparent;
+     background: #3cc2ae;
      padding: 30px 30px;
+ 
 }
 
 .logo a {
@@ -335,6 +336,7 @@ button {
 
 .banner_main {
      padding: 90px 0 190px 0;
+     background: black;
 }
 
 .text-bg {
